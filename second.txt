@@ -1,4 +1,8 @@
 ravi_kajal
 avadh_kajal
 jeet_bhoomi
+<<<<<<< Updated upstream
 manan_wwwwwxyz
+=======
+manan_wwxyz
+>>>>>>> Stashed changes
