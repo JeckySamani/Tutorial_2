@@ -1,8 +1,5 @@
 ravi_
 avadh_
 jeet_
-<<<<<<< Updated upstream
 manan_wwwwwxyz
-=======
-manan_wwxyz
->>>>>>> Stashed changes
+
